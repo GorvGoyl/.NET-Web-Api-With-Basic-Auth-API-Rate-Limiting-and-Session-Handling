@@ -1,0 +1,17 @@
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\LoggingApplication.Core.dll.config
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\LoggingApplication.Core.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\LoggingApplication.Core.pdb
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\LoggingApplication.DataObjects.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\LoggingApplication.Repository.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\System.Web.Http.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\MySql.Data.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\LoggingApplication.DataObjects.pdb
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\LoggingApplication.Repository.pdb
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\bin\Debug\System.Web.Http.xml
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\obj\Debug\LoggingApplication.Core.csprojResolveAssemblyReference.cache
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\obj\Debug\LoggingApplication.Core.dll
+C:\Users\H213141\Documents\Visual Studio 2015\Projects\LoggingApplication\LoggingApplication.Core\obj\Debug\LoggingApplication.Core.pdb
